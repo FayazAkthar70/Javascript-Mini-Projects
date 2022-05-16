@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://cdn.hipwallpaper.com/i/46/65/hEiUkp.jpg);
+    background-size: 100%;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2em;
+    color: black;
+    font-weight: bold;
+}
+h1{
+    font-weight: bold;
+}
+.buttons{
+    background-color: rgb(209, 160, 35);
+    font-size:2em;
+    color: rgb(0, 0, 0);
+    margin: .5em;
+}
+.buttons:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(232, 187, 75);
+}
+#player-el{
+    margin-top: 1em;
+}

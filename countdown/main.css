@@ -1,0 +1,23 @@
+body{
+    background-image: url(./back.webp);
+}
+
+.image{
+    max-height: 600px;
+}
+
+.countdown{
+    min-width: 100px;
+    min-height: 100px;
+    color: aliceblue;
+    
+}
+
+.time{
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.giveaway-para{
+    font-size: large;
+}
